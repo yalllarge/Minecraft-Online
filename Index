@@ -1,0 +1,445 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { (function(){function e(g){this.t={};this.tick=function(h,k,f){this.t[h]=[void 0!=f?f:(new Date).getTime(),k];if(void 0==f)try{window.console.timeStamp("CSI/"+h)}catch(m){}};this.tick("start",null,g)}var a;if(window.performance)var d=(a=window.performance.timing)&&a.responseStart;var l=0<d?new e(d):new e;window.jstiming={Timer:e,load:l};if(a){var b=a.navigationStart;0<b&&d>=b&&(window.jstiming.srt=d-b)}if(a){var c=window.jstiming.load;0<b&&d>=b&&(c.tick("_wtsrt",void 0,b),c.tick("wtsrt_","_wtsrt",
+d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),c&&0<b&&(c.tick("_tbnd",void 0,window.chrome.csi().startE),c.tick("tbnd_","_tbnd",b))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,c&&0<b&&(c.tick("_tbnd",void 0,window.external.startE),c.tick("tbnd_","_tbnd",b))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="//www.google.com/images/icons/product/sites-16.ico" />
+<link rel="apple-touch-icon" href="https://ssl.gstatic.com/sites/p/31de03/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(a){return document.getElementById(a)}window.byId=d;function g(a){return a.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(a,b,c){var f=new String(k++);a={eventName:a,handler:b,compId:c,key:f};h.push(a);return f};window.JOT_removeListenerByKey=function(a){for(var b=0;b<h.length;b++)if(h[b].key==a){h.splice(b,1);break}};window.JOT_removeAllListenersForName=function(a){for(var b=0;b<h.length;b++)h[b].eventName==a&&h.splice(b,1)};
+window.JOT_postEvent=function(a,b,c){var f={eventName:a,eventSrc:b||{},payload:c||{}};if(window.JOT_fullyLoaded)for(b=h.length,c=0;c<b&&c<h.length;c++){var e=h[c];e&&e.eventName==a&&(f.listenerCompId=e.compId||"",(e="function"==typeof e.handler?e.handler:window[e.handler])&&e(f))}else window.JOT_delayedEvents.push({eventName:a,eventSrc:b,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1440<=a||0>a)return null;var c=0;60<=a&&(a/=60,c=2);2<=a&&c++;return b?window.JOT_siteRelTimeStrs[c].replace("__duration__",Math.floor(a)):window.JOT_userRelTimeStrs[c].replace("__duration__",Math.floor(a))}; })()
+</script>
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/site/playfrivgame/minecraft-online","deleted":false,"title":"04. Minecraft Online","dir":"ltr"}];
+  var JOT_clearDotPath = 'https://ssl.gstatic.com/sites/p/31de03/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"gvizGstaticVersion":"current","enableAnalytics":false,"pageSharingId":"jotspot_page","codeembeds":{"outerIframeSrc":"https://www.gstatic.com/jotspot/embeds/code/0f08d42392f2000e7e3f3daf5b427a43/outer_iframe.html","innerIframeSrc":"https://1729806037-jotspot-embeds.googleusercontent.com/code/8d87fa64604b2a11fae2ed06104c58d3/inner_iframe.html"},"enableUniversalAnalytics":false,"sharingPolicy":"OPENED","siteTitle":"Play Friv Game Unblocked","jot2atari":{"eligibility":"ineligible"},"onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"oAuthForChartsApi":true,"moreMobileStyleImprovements":null,"googleChartsOverGstatic":false,"picasaAlbumInsert":false,"enableJot2Atari":true,"plusBadge":false},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":true,"serverFlags":{"jot2AtariLearnMoreUrl":"https://support.google.com/sites/answer/7035197"},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttps://sites.google.com/site/playfrivgame/minecraft-online\u0026service\u003djotspot","analyticsAccountId":"","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"https://gg.google.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["https://ssl.gstatic.com/sites/p/31de03/system/app/css/sitelayouteditor.css"],"text":["https://ssl.gstatic.com/sites/p/31de03/system/js/codemirror.js","https://ssl.gstatic.com/sites/p/31de03/system/app/css/codemirror_css.css","https://ssl.gstatic.com/sites/p/31de03/system/js/trog_edit__en.js","https://ssl.gstatic.com/sites/p/31de03/system/app/css/trogedit.css","/site/playfrivgame/_/rsrc/1556748455000/system/app/css/editor.css","https://ssl.gstatic.com/sites/p/31de03/system/app/css/codeeditor.css","/site/playfrivgame/_/rsrc/1556748455000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"defaultdomain","baseUri":"/site/playfrivgame","name":"playfrivgame","siteTemplateId":false,"siteNoticeRevision":1,"siteNoticeUrlAddress":null,"siteNoticeMessage":"This website uses cookies to ensure you get the best experience on our website. ","page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":null,"parentWuid":null,"siteLocale":"en","timeZone":"America/New_York","type":"text","title":"04. Minecraft Online","locale":"en","wuid":"wuid:gx:4c0ed3bd96ae38af","revision":27,"path":"/minecraft-online","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"minecraft-online","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/text","title":"Web Page"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","onePickToken":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/site/playfrivgame/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="title" content="04. Minecraft Online - Play Friv Game Unblocked" />
+<meta itemprop="name" content="04. Minecraft Online - Play Friv Game Unblocked" />
+<meta property="og:title" content="04. Minecraft Online - Play Friv Game Unblocked" />
+<meta name="description" content="Minecraft is a game that you can find just about anywhere. You can play the Minecraft demo version online here if you want. Or you can just play it online in its various iteration. There's even a Minecraft flash version as well. So there are many ways to play this title.&#xA;At its core, Minecraft is a survival game and you have to create a base, craft items and survive in a world full of dangers. The game is extremely fun and exciting to play, and it can offer you some really good moments. Just the sheer size of the levels and the gameplay make it very addicting and exciting. It's not the simplest game that you can play out there, but it's interesting and fun. And if you love good games that encourage exploration, you will enjoy Minecraft a lot. It doesn't matter if you download the Minecraft demo version or if you play Minecraft online, you just need to have it!" />
+<meta itemprop="description" content="Minecraft is a game that you can find just about anywhere. You can play the Minecraft demo version online here if you want. Or you can just play it online in its various iteration. There's even a Minecraft flash version as well. So there are many ways to play this title.&#xA;At its core, Minecraft is a survival game and you have to create a base, craft items and survive in a world full of dangers. The game is extremely fun and exciting to play, and it can offer you some really good moments. Just the sheer size of the levels and the gameplay make it very addicting and exciting. It's not the simplest game that you can play out there, but it's interesting and fun. And if you love good games that encourage exploration, you will enjoy Minecraft a lot. It doesn't matter if you download the Minecraft demo version or if you play Minecraft online, you just need to have it!" />
+<meta id="meta-tag-description" property="og:description" content="Minecraft is a game that you can find just about anywhere. You can play the Minecraft demo version online here if you want. Or you can just play it online in its various iteration. There's even a Minecraft flash version as well. So there are many ways to play this title.&#xA;At its core, Minecraft is a survival game and you have to create a base, craft items and survive in a world full of dangers. The game is extremely fun and exciting to play, and it can offer you some really good moments. Just the sheer size of the levels and the gameplay make it very addicting and exciting. It's not the simplest game that you can play out there, but it's interesting and fun. And if you love good games that encourage exploration, you will enjoy Minecraft a lot. It doesn't matter if you download the Minecraft demo version or if you play Minecraft online, you just need to have it!" />
+<style type="text/css">
+      
+      /* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://fonts.gstatic.com/s/opensans/v16/mem6YaGs126MiZpBA-UFUK0Udc1UAw.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://fonts.gstatic.com/s/opensans/v16/mem6YaGs126MiZpBA-UFUK0ddc1UAw.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://fonts.gstatic.com/s/opensans/v16/mem6YaGs126MiZpBA-UFUK0Vdc1UAw.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://fonts.gstatic.com/s/opensans/v16/mem6YaGs126MiZpBA-UFUK0adc1UAw.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://fonts.gstatic.com/s/opensans/v16/mem6YaGs126MiZpBA-UFUK0Wdc1UAw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://fonts.gstatic.com/s/opensans/v16/mem6YaGs126MiZpBA-UFUK0Xdc1UAw.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://fonts.gstatic.com/s/opensans/v16/mem6YaGs126MiZpBA-UFUK0Zdc0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(https://fonts.gstatic.com/s/opensans/v16/memnYaGs126MiZpBA-UFUKWiUNhmIqOjjg.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(https://fonts.gstatic.com/s/opensans/v16/memnYaGs126MiZpBA-UFUKWiUNhvIqOjjg.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(https://fonts.gstatic.com/s/opensans/v16/memnYaGs126MiZpBA-UFUKWiUNhnIqOjjg.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(https://fonts.gstatic.com/s/opensans/v16/memnYaGs126MiZpBA-UFUKWiUNhoIqOjjg.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(https://fonts.gstatic.com/s/opensans/v16/memnYaGs126MiZpBA-UFUKWiUNhkIqOjjg.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(https://fonts.gstatic.com/s/opensans/v16/memnYaGs126MiZpBA-UFUKWiUNhlIqOjjg.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(https://fonts.gstatic.com/s/opensans/v16/memnYaGs126MiZpBA-UFUKWiUNhrIqM.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFWJ0bbck.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFUZ0bbck.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFWZ0bbck.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFVp0bbck.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFWp0bbck.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFW50bbck.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v16/mem8YaGs126MiZpBA-UFVZ0b.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+    
+    </style>
+<link rel="stylesheet" type="text/css" href="https://ssl.gstatic.com/sites/p/31de03/system/app/themes/ski/standard-css-ski-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/site/playfrivgame/_/rsrc/1556748455000/system/app/css/overlay.css?cb=ski1a150goog-ws-nav-leftcontent30themedefaultstandard" />
+<link rel="stylesheet" type="text/css" href="/site/playfrivgame/_/rsrc/1556748455000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/site/playfrivgame/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>04. Minecraft Online - Play Friv Game Unblocked</title>
+<meta itemprop="image" content="/site/playfrivgame/_/rsrc/1534923426134/config/customLogo.gif?revision=4" />
+<meta property="og:image" content="/site/playfrivgame/_/rsrc/1534923426134/config/customLogo.gif?revision=4" />
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="height:auto;">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="height:auto;">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="" role="banner"><div class="sites-header-cell-buffer-wrapper"><a href="https://sites.google.com/site/playfrivgame/" id="sites-chrome-userheader-logo"><img id="logo-img-id" src="/site/playfrivgame/_/rsrc/1534923426134/config/customLogo.gif?revision=4" alt="Play Friv Game Unblocked" class="sites-logo  " /></a><h2></h2></div></td><td class="sites-layout-searchbox  "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/site/playfrivgame/system/app/pages/search" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search this site" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-search-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Search this site</div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+<div class="sites-header-nav"><ul class="sites-header-nav-container-boxes"><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/playfrivgame/">Home</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/playfrivgame/frivjuegos">friv juegos</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/playfrivgame/kizifreeonline">Kizi Free Online</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/playfrivgame/frivunblocked">Friv Unblocked 4 School</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/playfrivgame/agario">Agario</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/playfrivgame/slitherio">Slitherio</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://sites.google.com/site/playfrivgame/suggestions">Suggestions and Contact</a></li></ul><div style="clear: both;"></div></div>
+</td>
+</tr>
+</table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left initial" style="width:150px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList"><li class="nav-first "><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/home" jotId="wuid:gx:2ad55db46e34a2f8" class="sites-navigation-link">Home</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/agario" jotId="wuid:gx:5b980b4a74f0b262" class="sites-navigation-link">01. Agario</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/happy-wheels-demo" jotId="wuid:gx:6b3b7bee760824cc" class="sites-navigation-link">02. Happy Wheels Demo</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/slitherio" jotId="wuid:gx:19daf3275237eb99" class="sites-navigation-link">03. Slitherio</a></div></li><li class=""><div class="current-bg" jotId="wuid:gx:4c0ed3bd96ae38af" dir="ltr" style="padding-left: 5px;">04. Minecraft Online</div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/five-nights-at-freddy-s" jotId="wuid:gx:5e518f93184007ae" class="sites-navigation-link">05. Five Nights at Freddy's</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/atari-breakout" jotId="wuid:gx:202c60b7a779971d" class="sites-navigation-link">06. Atari Breakout</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/meme-generator" jotId="wuid:gx:74b2094f311c0881" class="sites-navigation-link">07. Meme Generator</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/bloons-tower-defense-5" jotId="wuid:gx:18e83c51d8827325" class="sites-navigation-link">08. Bloons Tower Defense 5</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/fidget-spinner" jotId="wuid:gx:7a443804a3362292" class="sites-navigation-link">09. Fidget Spinner</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/2048" jotId="wuid:gx:466a3a10fdee6388" class="sites-navigation-link">10. 2048</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/cricket-games" jotId="wuid:gx:50c192b591607608" class="sites-navigation-link">11. Cricket</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/angry-birds" jotId="wuid:gx:62d42304988c46d2" class="sites-navigation-link">12. Angry Birds</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/candy-crush-saga" jotId="wuid:gx:82f037658accfe0" class="sites-navigation-link">13. CANDY CRUSH SAGA</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/gravity" jotId="wuid:gx:6ebfe003b68233cc" class="sites-navigation-link">14. Gravity</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/jacksepticeye" jotId="wuid:gx:3064b77396054db0" class="sites-navigation-link">15. Jacksepticeye</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/adam-and-eve" jotId="wuid:gx:2cb7544e389fdd58" class="sites-navigation-link">Adam and Eve</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/baseball" jotId="wuid:gx:38a6eefb0fc807de" class="sites-navigation-link">Baseball</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/clicker-heroes" jotId="wuid:gx:308cde4bde64451e" class="sites-navigation-link">Clicker Heroes</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/fireboy-and-watergirl" jotId="wuid:gx:2a48d033b5a69066" class="sites-navigation-link">Fireboy and Watergirl</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/frivjuegos" jotId="wuid:gx:3fd820f25d244c96" class="sites-navigation-link">Friv Juegos</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/frivunblocked" jotId="wuid:gx:69c98cc44e3df50a" class="sites-navigation-link">Friv Unblocked 4 School</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/geometry-dash" jotId="wuid:gx:77f860b047ef77e" class="sites-navigation-link">Geometry Dash</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/kizifreeonline" jotId="wuid:gx:5448b127f1d085ea" class="sites-navigation-link">Kizi Free Online</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/kung-fu-panda-3" jotId="wuid:gx:22d3724ccad42ed9" class="sites-navigation-link">Kung Fu Panda 3</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/mahjong" jotId="wuid:gx:32f991d265a962f6" class="sites-navigation-link">Mahjong</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/privacy-policy" jotId="wuid:gx:60860378ec08b35f" class="sites-navigation-link">Privacy Policy</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/run-3" jotId="wuid:gx:3923b203fa643f31" class="sites-navigation-link">Run 3</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/snake" jotId="wuid:gx:71fecf5b527084c9" class="sites-navigation-link">Snake</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/spider-solitaire" jotId="wuid:gx:3113b3f5d680f18e" class="sites-navigation-link">Spider Solitaire</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/splixio" jotId="wuid:gx:30ec1787da524fd7" class="sites-navigation-link">Splixio</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/star-wars-rebels" jotId="wuid:gx:6a0f280f6da8dbd8" class="sites-navigation-link">Star Wars Rebels</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/sudoku" jotId="wuid:gx:24ce7939f91112a5" class="sites-navigation-link">Sudoku</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/suggestions" jotId="wuid:gx:593061daa6103898" class="sites-navigation-link">Suggestions</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/super-smash-flash-2" jotId="wuid:gx:19f7937666956404" class="sites-navigation-link">Super Smash Flash 2</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/tank-trouble" jotId="wuid:gx:e42a05f681c1802" class="sites-navigation-link">Tank Trouble</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/tetris" jotId="wuid:gx:1b7a410486966a89" class="sites-navigation-link">Tetris</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/the-impossible-quiz" jotId="wuid:gx:5b2fdeb336e56a0a" class="sites-navigation-link">The Impossible Quiz</a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="/site/playfrivgame/zootopia" jotId="wuid:gx:551827ca195bc135" class="sites-navigation-link">Zootopia</a></div></li></ul></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">04. Minecraft Online</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div style="text-align:center">
+<div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed" style="width:728px;"><div class="sites-embed-content sites-embed-type-ggs-gadget"><iframe title="Rectangle" width="728" height="90" scrolling="no" frameborder="0" id="1479819011" name="1479819011" allowtransparency="true" class="igm" src="//lfdov6a34gip8spqj95j4jn3cqvgsdfs-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/playfrivgame/ads.xml&amp;container=enterprise&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=8cfe3a42ab11db2e&amp;libs=core&amp;mid=221&amp;parent=https://sites.google.com/site/playfrivgame/minecraft-online#st=e%3DAIHE3cAiCXHdb0fkk7T0qnu0EIp4w3ABPBLTC771XA1GmUqexCZnxgA1WU8NVJDJU68RvCGuasYq76ecIZwoAp1ei8hjPgNCqB%252Fz5JGaTCIF5qNxDpdbgSc%253D%26c%3Denterprise&amp;rpctoken=1761492752785122658"></iframe></div></div></div> <br />
+<div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-off sites-embed sites-embed-full-width" style="width:100%;"><div class="sites-embed-content sites-embed-type-ggs-gadget"><iframe width="100%" height="500" scrolling="no" frameborder="0" id="984498339" name="984498339" allowtransparency="true" class="igm" src="//mj89sp3sau2k7lj1eg3k40hkeppguj6j-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=http://www.gstatic.com/sites-gadgets/iframe/iframe.xml&amp;container=enterprise&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=d7f7929a83dd611b&amp;libs=core&amp;parent=https://sites.google.com/site/playfrivgame/minecraft-online#up_scroll=no&amp;up_iframeURL=https://www.vpswave.com/html5/minecraft/&amp;st=e%3DAIHE3cD81eK%252FlgwEw%252By6TRuLa64Af3YkO7McUclbP%252FXpFzlWq38eItRjIrzq%252FhlAD%252BJg77CV6vCHhvh9ZXTQ%252FbcIM4fzowK73iAWjVyIdCkklE284ZMJZR4dQTJtoOa9vHdZ5RELd8UJ%26c%3Denterprise&amp;rpctoken=-7948856919143812471"></iframe></div></div></div>
+<div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed" style="width:728px;"><div class="sites-embed-content sites-embed-type-ggs-gadget"><iframe title="Rectangle" width="728" height="90" scrolling="no" frameborder="0" id="1760679172" name="1760679172" allowtransparency="true" class="igm" src="//4anijofstsfbesj0s8510llgmp86nfm3-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/playfrivgame/ads1.xml&amp;container=enterprise&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=705160839695acb3&amp;libs=core&amp;mid=209&amp;parent=https://sites.google.com/site/playfrivgame/minecraft-online#st=e%3DAIHE3cB7q3%252F0gCJSZArmMW83Q%252FTN%252FHvlRL%252FZCsLO8uihAoYZh6%252BiRx5bHBTRX3XXfmd1nWfOhVWm4OPQl1aPV7CaoYrRlot%252FxUxwFEU8cbZwaK%252FVSWgl%252FE4%253D%26c%3Denterprise&amp;rpctoken=8546757540088982526"></iframe></div></div></div><br />
+</div>
+Minecraft is a game that you can find just about anywhere. You can play the Minecraft demo version online here if you want. Or you can just play it online in its various iteration. There's even a Minecraft flash version as well. So there are many ways to play this title.<br />
+At its core, Minecraft is a survival game and you have to create a base, craft items and survive in a world full of dangers. The game is extremely fun and exciting to play, and it can offer you some really good moments. Just the sheer size of the levels and the gameplay make it very addicting and exciting. It's not the simplest game that you can play out there, but it's interesting and fun. And if you love good games that encourage exploration, you will enjoy Minecraft a lot. It doesn't matter if you download the Minecraft demo version or if you play Minecraft online, you just need to have it!</div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-subpages"> </div>
+<div id="sites-attachments-container">
+</div>
+<a xmlns="http://www.w3.org/1999/xhtml" name="page-comments"></a>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-comments"><div class="sites-comment-docos-wrapper"><div class="sites-comment-docos"><div class="sites-comment-docos-background"></div><div class="sites-comment-docos-header"><div class="sites-comment-docos-header-title">Comments</div></div><div id="sites-comment-docos-pane" class="sites-comment-docos-pane"></div></div></div></div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-subfooter"><div class="sites-subfooter-content"><div dir="ltr"><div style="text-align:center"><span style="color:rgb(0,255,255)"><font size="2"><a href="https://sites.google.com/site/playfrivgame/suggestions">Contact Us</a> - <a href="https://sites.google.com/site/playfrivgame/privacy-policy">Privacy Policy</a><br /></font></span></div><div style="text-align:center"><br /><span style="color:rgb(0,255,255)"><font size="2"><a href="//www.dmca.com/Protection/Status.aspx?ID=1dfb26d2-5fce-4dbd-8e82-f2b48a48510c" title="DMCA.com Protection Status"><img alt="DMCA.com Protection Status" src="https://images.dmca.com/Badges/dmca-badge-w100-5x1-05.png?ID=1dfb26d2-5fce-4dbd-8e82-f2b48a48510c" /></a></font></span></div><div style="text-align:center"><br /></div></div></div></div>
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://accounts.google.com/ServiceLogin?continue=https://sites.google.com/site/playfrivgame/minecraft-online&amp;service=jotspot">Sign in</a><span aria-hidden="true">|</span><a class="sites-system-link" href="https://sites.google.com/site/playfrivgame/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com/site">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="https://ssl.gstatic.com/sites/p/31de03/system/js/jot_min_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-search-button',
+                        {"object":[]}['object'],
+                        'search-site',
+                        {"label":"Configure search options...","url":"/site/playfrivgame/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("2bd", "Navigation", true);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+              new sites.CommentPane('//docs.google.com/comments/d/AAHRpnXt_Mp5R2w3D84n3sOb0JtfMzku_5392I57_OUUJe3DO77CtNHOjmf7yhUGpcu4CVpr02-WLX1cha8nbdJHlZV3oxLegY0J5OntHlJnE4ES2XeThcfpLYPVf85Bf3Gt3CVHaBlU8/api/js?anon=true',
+                  false, false);
+            </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'https://gg.google.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<script type="text/javascript">
+          sites.codeembed.init();
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>
